@@ -5,3 +5,9 @@
  */
 export {default as Navbar} from './navbar'
 export {default as UserHome} from './user-home'
+export {default as Info} from './info'
+export {default as Birth} from './birth'
+export {default as Prenatal} from './prenatal'
+export {default as Postpartum} from './postpartum'
+export {default as LunarWomen} from './lunarwomen'
+export {default as Contact} from './contact'
